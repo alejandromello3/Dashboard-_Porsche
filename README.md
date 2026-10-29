@@ -1,6 +1,5 @@
 Dashboard de Vendas da Porsche, Este projeto apresenta um dashboard interativo para análise de vendas de modelos
-Link da Desbord Porsche https://alejandromello3.github.io/Desbord_Porsche/
-
+Link da Desbord Porsche https://alejandromello3.github.io/Dashboard-_Porsche/
 Respostas e objetivos desta atividade:
 
 Quais perguntas de negócio você escolheu, e por quê;
